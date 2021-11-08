@@ -1,0 +1,12 @@
+/.terraform/*
+.DS_Store
+.terraform
+/.idea/*
+/creds/*
+/.vscode/*
+.vscode
+/reports/*
+.terraform.lock.hcl
+dev.log
+key.json
+*.tfstate*
